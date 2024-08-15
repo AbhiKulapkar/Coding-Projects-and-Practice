@@ -1,0 +1,1 @@
+{"name":"Local: swaptwonumbers","url":"d:\\coding projects\\Practice Problems\\swaptwonumbers.cpp","tests":[{"id":1723745260663,"input":"a=5 b=10","output":"a=10 b=5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding projects\\Practice Problems\\swaptwonumbers.cpp","group":"local","local":true}
