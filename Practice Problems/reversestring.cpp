@@ -13,11 +13,11 @@ int main() {
     j = 0;
     
     for (i = length - 1; i >= 0; i--) {
-        reverse[j] = str[i];  // Corrected assignment operator
+        reverse[j] = str[i];  
         j++;
     }
     
-    reverse[j] = '\0';  // Null-terminate the reversed string
+    reverse[j] = '\0';  
     
     cout << "Reversed string: " << reverse << endl;
 
