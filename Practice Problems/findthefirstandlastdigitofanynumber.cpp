@@ -5,6 +5,7 @@ int main(){
    int num, last;
    cin >> num;
    last=num%10;
+   
    cout<<"the last digit of the entered number is "<<last<<endl;
 
 
