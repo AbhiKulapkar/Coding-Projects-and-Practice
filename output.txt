@@ -1,1 +1,5 @@
-Length of the string is: 16
+Your initial amount is:  123456
+Your annual interest rate is:  5
+Your number of compounding periods per year is:  1
+Your number of years you are going to invest your initial amount is:  2
+The total amount after 2 years is:  4444416
