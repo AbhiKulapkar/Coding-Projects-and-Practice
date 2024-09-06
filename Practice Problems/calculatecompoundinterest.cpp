@@ -20,6 +20,6 @@ int main()
     cout << "Your number of compounding periods per year is:  " << n << endl;
     cin >> t;
     cout << "Your number of years you are going to invest your initial amount is:  " << t << endl;
-    A = P * pow((1 + r/n), (n*t));
+    A = P * pow((1 + r / n), (n * t));
     cout << "The total amount after " << t << " years is:  " << A << endl;
 }
