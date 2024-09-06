@@ -1,1 +1,1 @@
-total of both number are: 43
+total of both strings are: abhishek
